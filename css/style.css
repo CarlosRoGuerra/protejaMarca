@@ -70,6 +70,25 @@ h5,
     background: linear-gradient(to bottom right, var(--secondary), var(--primary));
 }
 
+/* Imagem desktop visível apenas em telas maiores que 768px */
+.desktop-image {
+    display: block;
+}
+
+.mobile-image {
+    display: none;
+}
+
+/* Imagem mobile visível apenas em telas menores que 768px */
+@media (max-width: 768px) {
+    .desktop-image {
+        display: none;
+    }
+    
+    .mobile-image {
+        display: block;
+    }
+}
 
 /*** Button ***/
 .btn {
