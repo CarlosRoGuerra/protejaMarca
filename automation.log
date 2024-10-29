@@ -1,0 +1,569 @@
+2024-10-27 00:18:46,011 - INFO - Cookies aceitos
+2024-10-27 00:18:51,175 - INFO - Login realizado com sucesso
+2024-10-27 00:19:47,478 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:19:47,488 - ERROR - Erro geral: [Errno 2] No such file or directory: 'VALETMED HOSPITALAR LTDA.xlsx'
+2024-10-27 00:19:47,489 - ERROR - Erro durante a execução da opção: [Errno 2] No such file or directory: 'VALETMED HOSPITALAR LTDA.xlsx'
+2024-10-27 00:19:53,333 - INFO - Navegador fechado.
+2024-10-27 00:20:18,318 - INFO - Cookies aceitos
+2024-10-27 00:20:23,526 - INFO - Login realizado com sucesso
+2024-10-27 00:20:25,549 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:20:25,559 - ERROR - Erro geral: [Errno 2] No such file or directory: 'VALETMED HOSPITALAR LTDA.xlsx'
+2024-10-27 00:20:25,560 - ERROR - Erro durante a execução da opção: [Errno 2] No such file or directory: 'VALETMED HOSPITALAR LTDA.xlsx'
+2024-10-27 00:20:36,026 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))': /session/33de083d85d35af034cbcdf4cbfd285c
+2024-10-27 00:20:56,803 - INFO - Cookies aceitos
+2024-10-27 00:21:02,039 - INFO - Login realizado com sucesso
+2024-10-27 00:21:03,292 - INFO - Iniciando extração de dados do webservice...
+2024-10-27 00:21:22,848 - INFO - Arquivo Excel gerado com sucesso
+2024-10-27 00:21:22,850 - INFO - Extração de dados concluída!
+2024-10-27 00:21:22,850 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:21:51,821 - ERROR - Tentativa 1 falhou: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D48EA97]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:21:51,823 - INFO - Tentando reconectar...
+2024-10-27 00:21:54,065 - ERROR - Erro ao reconectar: 'GTPlanAutomation' object has no attribute 'chrome_options'
+2024-10-27 00:21:54,066 - ERROR - Erro geral: Não foi possível carregar a página após várias tentativas
+2024-10-27 00:21:54,067 - ERROR - Erro durante a execução da opção: Não foi possível carregar a página após várias tentativas
+2024-10-27 00:22:08,070 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002095A69F8C0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/816df15b62322fa87ac43dffab332ad0
+2024-10-27 00:22:12,166 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002095C4EF1A0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/816df15b62322fa87ac43dffab332ad0
+2024-10-27 00:22:30,125 - INFO - Cookies aceitos
+2024-10-27 00:22:35,273 - INFO - Login realizado com sucesso
+2024-10-27 00:22:41,882 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:22:58,227 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:22:58,234 - INFO - IDC encontrado: 319034
+2024-10-27 00:23:07,278 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:23:08,599 - ERROR - Erro ao preencher campos do item: 'WebElement' object is not callable
+2024-10-27 00:23:08,675 - INFO - IDC encontrado: 319095
+2024-10-27 00:23:17,798 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:23:18,979 - ERROR - Erro ao preencher campos do item: 'WebElement' object is not callable
+2024-10-27 00:23:19,057 - INFO - IDC encontrado: 319100
+2024-10-27 00:23:28,058 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:24:38,252 - ERROR - Erro ao preencher campos do item: 'WebElement' object is not callable
+2024-10-27 00:26:04,865 - INFO - Cookies aceitos
+2024-10-27 00:26:10,053 - INFO - Login realizado com sucesso
+2024-10-27 00:28:00,592 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:28:16,869 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:28:16,875 - INFO - IDC encontrado: 319034
+2024-10-27 00:28:26,012 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:29:07,906 - ERROR - Erro ao preencher campos do item: 'preco_unitario'
+2024-10-27 00:29:07,987 - INFO - IDC encontrado: 319095
+2024-10-27 00:29:16,902 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:31:12,288 - INFO - Cookies aceitos
+2024-10-27 00:31:17,433 - INFO - Login realizado com sucesso
+2024-10-27 00:31:59,801 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:32:16,413 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:32:16,424 - INFO - IDC encontrado: 319034
+2024-10-27 00:32:25,962 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:32:52,879 - ERROR - Erro ao preencher campos do item: 'preco_unitario'
+2024-10-27 00:32:52,957 - INFO - IDC encontrado: 319095
+2024-10-27 00:33:01,992 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:34:49,547 - INFO - Cookies aceitos
+2024-10-27 00:34:54,762 - INFO - Login realizado com sucesso
+2024-10-27 00:35:05,890 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:35:22,576 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:35:22,583 - INFO - IDC encontrado: 319034
+2024-10-27 00:35:32,172 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:36:55,440 - ERROR - Erro ao preencher campos do item: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D3FC2CC]
+	(No symbol) [0x00007FF69D3FE5E7]
+	(No symbol) [0x00007FF69D3FE6A0]
+	(No symbol) [0x00007FF69D44692C]
+	(No symbol) [0x00007FF69D4469F4]
+	(No symbol) [0x00007FF69D43C808]
+	(No symbol) [0x00007FF69D46BA3A]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:36:55,520 - INFO - IDC encontrado: 319095
+2024-10-27 00:37:04,713 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:38:54,660 - INFO - Processamento de bid headers concluído!
+2024-10-27 00:39:23,854 - INFO - Cookies aceitos
+2024-10-27 00:39:29,095 - INFO - Login realizado com sucesso
+2024-10-27 00:39:35,057 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:39:51,374 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:39:51,384 - INFO - IDC encontrado: 319034
+2024-10-27 00:40:00,889 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:40:59,835 - ERROR - Erro ao preencher campos do item: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D3FC2CC]
+	(No symbol) [0x00007FF69D3FE5E7]
+	(No symbol) [0x00007FF69D3FE6A0]
+	(No symbol) [0x00007FF69D43F9DB]
+	(No symbol) [0x00007FF69D46BA3A]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:41:43,850 - INFO - Cookies aceitos
+2024-10-27 00:41:49,058 - INFO - Login realizado com sucesso
+2024-10-27 00:42:07,910 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:42:24,161 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:42:24,167 - INFO - IDC encontrado: 319034
+2024-10-27 00:42:33,210 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:44:23,980 - INFO - Cookies aceitos
+2024-10-27 00:44:29,141 - INFO - Login realizado com sucesso
+2024-10-27 00:45:35,567 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:45:52,769 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:45:52,778 - INFO - IDC encontrado: 319034
+2024-10-27 00:46:02,451 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:47:00,783 - ERROR - Erro ao preencher campos do item: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D3FC2CC]
+	(No symbol) [0x00007FF69D3FE5E7]
+	(No symbol) [0x00007FF69D3FE6A0]
+	(No symbol) [0x00007FF69D43F9DB]
+	(No symbol) [0x00007FF69D46BA3A]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:47:35,170 - INFO - Cookies aceitos
+2024-10-27 00:47:40,398 - INFO - Login realizado com sucesso
+2024-10-27 00:47:43,763 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:48:00,991 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:48:00,998 - INFO - IDC encontrado: 319034
+2024-10-27 00:48:10,566 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:50:34,907 - INFO - Cookies aceitos
+2024-10-27 00:50:40,100 - INFO - Login realizado com sucesso
+2024-10-27 00:51:04,837 - INFO - Iniciando processamento de bid headers...
+2024-10-27 00:51:21,791 - INFO - IDC 318967 não encontrado na planilha. Avançando para o próximo...
+2024-10-27 00:51:21,796 - INFO - IDC encontrado: 319034
+2024-10-27 00:51:31,335 - ERROR - Erro na modal: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.btn-primary.btn-confirm-read-conditions"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF69D5F3AB5+28005]
+	(No symbol) [0x00007FF69D5583B0]
+	(No symbol) [0x00007FF69D3F580A]
+	(No symbol) [0x00007FF69D445A3E]
+	(No symbol) [0x00007FF69D445D2C]
+	(No symbol) [0x00007FF69D43937C]
+	(No symbol) [0x00007FF69D46BA7F]
+	(No symbol) [0x00007FF69D439246]
+	(No symbol) [0x00007FF69D46BC50]
+	(No symbol) [0x00007FF69D48B8B3]
+	(No symbol) [0x00007FF69D46B7E3]
+	(No symbol) [0x00007FF69D4375C8]
+	(No symbol) [0x00007FF69D438731]
+	GetHandleVerifier [0x00007FF69D8E643D+3118829]
+	GetHandleVerifier [0x00007FF69D936C90+3448640]
+	GetHandleVerifier [0x00007FF69D92CF0D+3408317]
+	GetHandleVerifier [0x00007FF69D6BA40B+841403]
+	(No symbol) [0x00007FF69D56340F]
+	(No symbol) [0x00007FF69D55F484]
+	(No symbol) [0x00007FF69D55F61D]
+	(No symbol) [0x00007FF69D54EB79]
+	BaseThreadInitThunk [0x00007FFDA754257D+29]
+	RtlUserThreadStart [0x00007FFDA898AF08+40]
+
+2024-10-27 00:52:40,492 - ERROR - Erro ao preencher campos do item: 'preco_unitario'
