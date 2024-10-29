@@ -148,7 +148,7 @@ h6,
     position: relative;
     margin-right: 25px;
     padding: 45px 0;
-    font-family: 'Jost', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 500;
     color: var(--light) !important;
@@ -326,7 +326,7 @@ h6,
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .faq-title {
@@ -399,7 +399,6 @@ h6,
     height: 100%;
     top: 0;
     left: 0;
-    background: url(../img/escudo.jpg) center center no-repeat;
     background-size: 470px 500px;
     z-index: 1;
 }
@@ -568,7 +567,7 @@ h6,
 .footer .btn.btn-link::before {
     position: relative;
     content: "\f105";
-    font-family: "Font Awesome 5 Free";
+    font-family: 'Poppins', sans-serif;
     font-weight: 900;
     margin-right: 10px;
 }
